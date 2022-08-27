@@ -1,0 +1,7 @@
+{
+  "name": "eraShop",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -16,7 +16,7 @@ export class HomePage {
     this.openBrowser()
   }
   async openBrowser() {
-    console.log('show browser')
+  
     this.inAppBrowser.create('http://erashop.vn/', '_self', {
       location: 'no', hideurlbar: 'yes',
       closebuttoncaption: 'Đóng',
